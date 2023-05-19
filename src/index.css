@@ -11,6 +11,6 @@ html {
 .app {
   display: grid;
   place-items: center;
-  background-color: rgb(21, 21, 93);
+  background-color: rgb(231, 202, 238);
   min-height: 100vh;
 }
