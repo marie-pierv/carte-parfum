@@ -4,11 +4,10 @@ function App() {
   return (
     <section className="app">
       <Card
-      mainImageSrc="https://placehold.co/1000x400"
+      mainImageSrc="./src/assets/image-product-desktop.jpg"
       mainImageAlt="Some Image"
       mainImageoading="lazy"
-      mainImageWidth="1000"
-      mainImageHeight="400"
+      titreHMain="Lorem Ipsum dolor dit amet"
       />
     </section>
   );
